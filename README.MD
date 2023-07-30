@@ -2,7 +2,7 @@
 
 ## Chrome extension that changes all the new X logo in twitter
 
-<a href="x.com">X.com</a> previously known as twitter, changed all it's logos into an X, which is a retarded idea. This chrome extension changes it back into the twitter bird and renames the tab title to "Twitter" and changes the web icon
+<a href="https://x.com">X.com</a> previously known as twitter, changed all it's logos into an X, which is a retarded idea. This chrome extension changes it back into the twitter bird and renames the tab title to "Twitter" and changes the web icon
 
 ## Installation
 
