@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Twitter Icon Changer",
+  "version": "1.0",
+  "description": "Replace X icon with Original Twitter Bird.",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["*://twitter.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": ["cust_icon.svg"],
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "48": "icon.png",
+    "96": "icon.png"
+  }
+}
